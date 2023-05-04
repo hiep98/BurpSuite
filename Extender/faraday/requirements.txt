@@ -7,5 +7,5 @@ ipy==0.75
 restkit==4.2.2
 requests==2.20
 tornado==5.1
-Flask==0.12.3
+Flask==2.2.5
 python-dateutil==2.2

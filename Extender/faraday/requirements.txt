@@ -6,6 +6,6 @@ argparse==1.1
 ipy==0.75
 restkit==4.2.2
 requests==2.20
-tornado==5.1
+tornado==6.3.3
 Flask==0.12.3
 python-dateutil==2.2
